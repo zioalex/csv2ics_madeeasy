@@ -9,6 +9,9 @@ Something that should be like eating a candy.
  
 # Use it
 Setup your virtual environment
-make venv_config
 
-make run filename=YOUR_CSV_FILE
+    make venv_config
+
+Convert your CSV file in ICS
+
+    make run filename=YOUR_CSV_FILE
